@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sso_client_820_sp2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
