@@ -6,56 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9e4bd2b-e95d-4b77-8f05-4adf683a7a72" name="Default" comment="2018年7月17日16:04:02">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lnapp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lnlandscape.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sso_client_820_sp2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kingdee/test/BizDataWriteToSHRTool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kingdee/test/SyncMainDataFromSHRTool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kingdee/test/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ssoShrLogin/EncodingFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ssoShrLogin/LoginServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ssoShrLogin/ShrLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-codec-1.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-httpclient-3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/httpclient-4.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/httpcore-4.4.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/httpmime-4.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/javax.servlet-api-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/slf4j-api-1.6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/shr-ssoClient.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/shr-ssoClient.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/browser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/browser.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/loginhr.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/loginhr.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/scripts/jquery-1.7.2-mini.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/scripts/jquery-1.7.2-mini.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/scripts/jquery-1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/scripts/jquery-1.7.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/sso2hr.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/sso2hr.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/sso2hrUrl.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/sso2hrUrl.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/test/testapi.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/test/testapi.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.iml" beforeDir="false" />
+    <list default="true" id="b9e4bd2b-e95d-4b77-8f05-4adf683a7a72" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_10.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -162,17 +114,6 @@
             <path>
               <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="lnapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
@@ -431,7 +372,7 @@
       <workItem from="1531820820742" duration="1416000" />
       <workItem from="1531876962808" duration="5468000" />
       <workItem from="1531885556153" duration="13251000" />
-      <workItem from="1531898893582" duration="1299000" />
+      <workItem from="1531898893582" duration="1555000" />
     </task>
     <task id="LOCAL-00001" summary="2018年7月17日16:04:02">
       <created>1531814683469</created>
@@ -454,11 +395,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531815040750</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2018年7月18日15:53:09">
+      <created>1531900441120</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531900441120</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51748000" />
+    <option name="totallyTimeSpent" value="52004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -534,7 +482,8 @@
       <path value="E:/test" />
     </ignored-roots>
     <MESSAGE value="2018年7月17日16:04:02" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018年7月17日16:04:02" />
+    <MESSAGE value="2018年7月18日15:53:09" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018年7月18日15:53:09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -841,6 +790,7 @@
             <option name="proportions">
               <list>
                 <option value="0.37241378" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -889,6 +839,7 @@
             <option name="proportions">
               <list>
                 <option value="0.37241378" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
