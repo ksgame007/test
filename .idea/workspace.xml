@@ -2,17 +2,60 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="test:war" />
+      <artifact name="lnapp" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9e4bd2b-e95d-4b77-8f05-4adf683a7a72" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/kingdee/test/SyncMainDataFromSHRTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/kingdee/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main/java/ssoShrLogin/EncodingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main/java/ssoShrLogin/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main/java/ssoShrLogin/ShrLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/shr-ssoClient.properties" afterDir="false" />
+    <list default="true" id="b9e4bd2b-e95d-4b77-8f05-4adf683a7a72" name="Default" comment="2018年7月17日16:04:02">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lnapp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lnlandscape.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sso_client_820_sp2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kingdee/test/BizDataWriteToSHRTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kingdee/test/SyncMainDataFromSHRTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kingdee/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ssoShrLogin/EncodingFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ssoShrLogin/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ssoShrLogin/ShrLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-codec-1.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-httpclient-3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/httpclient-4.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/httpcore-4.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/httpmime-4.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/javax.servlet-api-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/slf4j-api-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/shr-ssoClient.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/shr-ssoClient.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/browser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/browser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/loginhr.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/loginhr.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/scripts/jquery-1.7.2-mini.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/scripts/jquery-1.7.2-mini.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/scripts/jquery-1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/scripts/jquery-1.7.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/sso2hr.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/sso2hr.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/sso2hrUrl.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/sso2hrUrl.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/shr/test/testapi.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shr/test/testapi.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,98 +67,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="loginhr.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/shr/loginhr.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SyncMainDataFromSHRTool.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../test/src/main/java/com/kingdee/test/SyncMainDataFromSHRTool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SSOUtil.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/util/SSOUtil.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shr-ssoClient.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/shr-ssoClient.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LtpaToken.properties" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/ltpa/LtpaToken.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultUserNameBuilder.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/user/DefaultUserNameBuilder.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EncodingFilter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../test/src/main/java/ssoShrLogin/EncodingFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="39" column="34" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sso2hrUrl.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/shr/sso2hrUrl.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -126,7 +78,10 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../test" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -138,16 +93,37 @@
         <option value="$PROJECT_DIR$/src/main/webapp/shr/test/setUser.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/shr-ssoClient.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/shr/loginhr.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/lnscape/test/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kingdee/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/shr-ssoClient.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/logout.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/shr/scripts/common/shr.window.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/kingdee/test/SyncMainDataFromSHRTool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kingdee/test/t.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kingdee/test/CreateQrCode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kingdee/test/CreateQrCode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kingdee/test/SyncMainDataFromSHRTool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kingdee/test/CreateQrCode.java" />
+        <option value="E:/test/pom.xml" />
+        <option value="E:/test/src/main/java/com/kingdee/test/QRCodeFactory.java" />
+        <option value="E:/test/src/main/java/com/kingdee/test/MatrixToImageWriter.java" />
+        <option value="E:/test/src/main/java/com/kingdee/test/Test.java" />
+        <option value="E:/test/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kingdee/test/BizDataWriteToSHRTool.java" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lnlandscape/utils/MatrixToImageWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lnlandscape/utils/QRCodeFactory.java" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
       </list>
     </option>
   </component>
@@ -161,15 +137,16 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="C:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="595" />
-    <option name="y" value="78" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="447" />
+    <option name="y" value="80" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -179,78 +156,115 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="shr" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="lnapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lnapp" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="shr" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.37241378" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kingdee" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\test\src\main\test" />
+      <recent name="E:\test\src\main\resources" />
       <recent name="E:\test\src\main\webapp\WEB-INF" />
       <recent name="E:\test\src\main\webapp" />
       <recent name="E:\test\src\main\java" />
-      <recent name="E:\test\src\main\webapp\WEB-INF\lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kingdee.test" />
@@ -272,25 +286,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SyncMainDataFromSHRTool">
-    <configuration name="SyncMainDataFromSHRTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kingdee.test.SyncMainDataFromSHRTool" />
-      <module name="test" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kingdee.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="JBoss7.1.1" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 7.1.1.Final" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="JBoss7.1.1" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 7.1.1.Final" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+      <option name="OPEN_IN_BROWSER" value="false" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="test:war">
+        <artifact name="lnapp">
           <settings />
         </artifact>
       </deployment>
@@ -352,8 +356,9 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <method>
+        <option name="Make" enabled="false" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="test:war" />
+          <artifact name="lnapp" />
         </option>
       </method>
     </configuration>
@@ -372,6 +377,16 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="com.com.kingdee.com.kingdee.test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -395,15 +410,6 @@
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="JBoss Server.JBoss7.1.1" />
-      <item itemvalue="Application.SyncMainDataFromSHRTool" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SyncMainDataFromSHRTool" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -419,7 +425,13 @@
       <workItem from="1531467657152" duration="6471000" />
       <workItem from="1531474452784" duration="1873000" />
       <workItem from="1531698987189" duration="11957000" />
-      <workItem from="1531786800544" duration="3782000" />
+      <workItem from="1531786800544" duration="5439000" />
+      <workItem from="1531818198420" duration="480000" />
+      <workItem from="1531819123979" duration="1425000" />
+      <workItem from="1531820820742" duration="1416000" />
+      <workItem from="1531876962808" duration="5468000" />
+      <workItem from="1531885556153" duration="13251000" />
+      <workItem from="1531898893582" duration="1299000" />
     </task>
     <task id="LOCAL-00001" summary="2018年7月17日16:04:02">
       <created>1531814683469</created>
@@ -428,50 +440,90 @@
       <option name="project" value="LOCAL" />
       <updated>1531814683469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2018年7月17日16:04:02">
+      <created>1531814830870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531814830870</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2018年7月17日16:04:02">
+      <created>1531815040750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531815040750</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26752000" />
+    <option name="totallyTimeSpent" value="51748000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="595" y="78" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49895832" weight="0.30834213" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32921347" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50104165" side_tool="true" weight="0.30834213" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32946146" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30939808" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3273495" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32980973" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49895832" weight="0.32875264" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32658958" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23541667" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3964059" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42344245" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32946146" />
+      <window_info id="Capture Tool" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921347" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -479,6 +531,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="D:/LNGit" />
+      <path value="E:/test" />
     </ignored-roots>
     <MESSAGE value="2018年7月17日16:04:02" />
     <option name="LAST_COMMIT_MESSAGE" value="2018年7月17日16:04:02" />
@@ -510,12 +563,28 @@
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://E:/test/src/test/java/com/kingdee/test/QRCodeFactory.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="39" />
+      <option name="time" value="40" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="matrixWidth/5*2" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>matrixWidth/5*2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>(IUserNameBuilder)obj</expression-string>
         <language-id>JAVA</language-id>
@@ -534,302 +603,244 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/shr/loginhr.jsp">
+    <entry file="file://E:/test/src/main/webapp/logout.jsp" />
+    <entry file="file://E:/test/src/main/webapp/shr/scripts/common/shr.window.js" />
+    <entry file="file://E:/test/src/main/webapp/index.jsp" />
+    <entry file="file://E:/test/src/test/java/ssoShrLogin/LoginServlet.java" />
+    <entry file="file://E:/test/src/test/java/ssoShrLogin/ShrLogin.java" />
+    <entry file="jar://E:/test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/api/SHRClient.class" />
+    <entry file="file://E:/test/src/main/webapp/shr/loginhr.jsp" />
+    <entry file="file://E:/test/src/main/webapp/login.jsp" />
+    <entry file="file://E:/test/src/main/webapp/shr/sso2hrUrl.jsp" />
+    <entry file="jar://E:/test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/util/SSOUtil.class" />
+    <entry file="jar://E:/test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/user/IUserNameBuilder.class" />
+    <entry file="jar://E:/test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/user/DefaultUserNameBuilder.class" />
+    <entry file="file://E:/test/src/test/java/ssoShrLogin/EncodingFilter.java" />
+    <entry file="jar://E:/test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/ltpa/LtpaToken.properties" />
+    <entry file="file://E:/test/src/test/java/com/kingdee/test/SyncMainDataFromSHRTool.java" />
+    <entry file="file://E:/test/src/main/webapp/WEB-INF/shr-ssoClient.properties" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="305">
+          <caret line="749" column="6" selection-start-line="749" selection-start-column="6" selection-end-line="749" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/api/SHRClient.class">
+    <entry file="file://$MAVEN_REPOSITORY$/com/google/zxing/javase/3.2.1/javase-3.2.1.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3439">
-          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        <state relative-caret-position="504">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/util/SSOUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+    <entry file="uml://MAVEN/ln:test:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>ln:test:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="308.0" y="162.0">ln:test:1.0-SNAPSHOT</node>
+            <node x="182.0" y="81.0">junit:junit:jar:4.11</node>
+            <node x="152.0" y="0.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="298.5" y="81.0">javax.servlet:jsp-api:jar:2.0</node>
+            <node x="288.0" y="0.0">javax.servlet:jsp-api:jar:2.0/javax.servlet:servlet-api:jar:2.4</node>
+            <node x="0.0" y="81.0">org.apache.httpcomponents:httpcomponents-client:jar:4.5.2</node>
+            <node x="390.5" y="81.0">org.apache.httpcomponents:httpcomponents-core:jar:4.4.1</node>
+            <node x="568.5" y="81.0">com.google.zxing:javase:jar:3.2.1</node>
+            <node x="522.75" y="0.0">com.google.zxing:javase:jar:3.2.1/com.google.zxing:core:jar:3.2.1</node>
+            <node x="600.75" y="0.0">com.google.zxing:javase:jar:3.2.1/com.beust:jcommander:jar:1.48</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ln:test:1.0-SNAPSHOT" target="com.google.zxing:javase:jar:3.2.1">
+              <point x="21.19999999999999" y="-15.5" />
+              <point x="355.7" y="142.0" />
+              <point x="602.5" y="142.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.google.zxing:javase:jar:3.2.1" target="com.google.zxing:javase:jar:3.2.1/com.beust:jcommander:jar:1.48">
+              <point x="17.0" y="-15.5" />
+              <point x="619.5" y="56.0" />
+              <point x="653.25" y="56.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="ln:test:1.0-SNAPSHOT" target="javax.servlet:jsp-api:jar:2.0">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="javax.servlet:jsp-api:jar:2.0" target="javax.servlet:jsp-api:jar:2.0/javax.servlet:servlet-api:jar:2.4">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="ln:test:1.0-SNAPSHOT" target="org.apache.httpcomponents:httpcomponents-client:jar:4.5.2">
+              <point x="-21.19999999999999" y="-15.5" />
+              <point x="313.3" y="142.0" />
+              <point x="81.0" y="142.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="ln:test:1.0-SNAPSHOT" target="org.apache.httpcomponents:httpcomponents-core:jar:4.4.1">
+              <point x="10.600000000000023" y="-15.5" />
+              <point x="345.1" y="132.0" />
+              <point x="469.5" y="132.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.google.zxing:javase:jar:3.2.1" target="com.google.zxing:javase:jar:3.2.1/com.google.zxing:core:jar:3.2.1">
+              <point x="-17.0" y="-15.5" />
+              <point x="585.5" y="56.0" />
+              <point x="551.75" y="56.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="ln:test:1.0-SNAPSHOT" target="junit:junit:jar:4.11">
+              <point x="-10.600000000000023" y="-15.5" />
+              <point x="323.9" y="132.0" />
+              <point x="210.0" y="132.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-217.0" y="-108.0" />
+          <SelectedNodes>
+            <node>com.google.zxing:javase:jar:3.2.1/com.beust:jcommander:jar:1.48</node>
+            <node>org.apache.httpcomponents:httpcomponents-core:jar:4.4.1</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/shr-ssoClient.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/ltpa/LtpaToken.properties">
+    <entry file="file://E:/test/src/test/java/com/kingdee/test/BizDataWriteToSHRTool.java" />
+    <entry file="jar://$USER_HOME$/Desktop/s-HR单点登录开发包/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/api/SHRClient.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="48" />
+        <state relative-caret-position="285">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/api/Response.class">
+    <entry file="file://E:/test/src/test/java/com/kingdee/test/CreateQrCode.java" />
+    <entry file="file://E:/test/src/test/java/com/kingdee/test/MatrixToImageWriter.java" />
+    <entry file="file://E:/test/src/test/java/com/kingdee/test/QRCodeFactory.java" />
+    <entry file="file://E:/test/src/test/java/com/kingdee/test/Test.java" />
+    <entry file="file://E:/test/src/main/resources/config/xml/spring-mvc.xml" />
+    <entry file="file://E:/test/src/main/resources/config/properties/log4j.properties" />
+    <entry file="file://E:/test/src/main/resources/config/properties/config.properties" />
+    <entry file="file://E:/test/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://E:/test/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ssoShrLogin/ShrLogin.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kingdee/test/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kingdee/test/BizDataWriteToSHRTool.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/.name" />
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/lib.xml" />
+    <entry file="jar://E:/Kingdee/eas/oracle-jdk1.7/src.zip!/javax/imageio/ImageIO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="189">
+          <caret line="1299" column="31" selection-start-line="1299" selection-start-column="31" selection-end-line="1299" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/api/Token.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lnlandscape/utils/MatrixToImageWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/ltpa/LtpaToken.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1026">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/sso2hrUrl.jsp" />
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/loginhr.jsp" />
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/scripts/jquery-1.7.2-mini.js" />
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/browser.jsp" />
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/scripts/common/shr.window.js" />
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/sso2hr.jsp" />
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/loginhr.jsp" />
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/sso2hrUrl.jsp" />
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/test/testapi.jsp" />
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/javax.servlet-api-3.0.1.jar!/javax/servlet/http/HttpServletResponse.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/shr/sso2hr.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/shr/test/testapi.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/shr/test/setUser.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/ltpa/config.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/ltpa/LtpaTokenManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3040">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/ltpa/ConfigurationError.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/util/SourceEncryptUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1074">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/test/SSOTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/util/UrlUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-512">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/target/classes/com/kingdee/test/Test.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/java/com/lnscape/test/Test.java" />
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/util/SourcePassBase64Encoder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/javax.servlet-api-3.0.1.jar!/javax/servlet/http/HttpSession.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/logout.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/shr/scripts/common/shr.window.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/java/com/kingdee/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/java/ssoShrLogin/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-551">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/java/com/kingdee/test/BizDataWriteToSHRTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="19" column="77" lean-forward="true" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/java/ssoShrLogin/ShrLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="73" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="73" />
+        <state relative-caret-position="1064">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/api/SHRClient.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lnlandscape/utils/QRCodeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="2090">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/java/com/kingdee/test/SyncMainDataFromSHRTool.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        <state relative-caret-position="152">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/shr/loginhr.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/shr/sso2hrUrl.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/util/SSOUtil.class">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/user/IUserNameBuilder.class">
+    <entry file="file://$PROJECT_DIR$/out/artifacts/lnapp_war_exploded/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="241">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/user/DefaultUserNameBuilder.class">
+    <entry file="file://$PROJECT_DIR$/lnapp.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/lnlandscape_war_exploded.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="285">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/lnapp.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="380">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/java/ssoShrLogin/EncodingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="39" column="34" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/lib/sso_client_820_sp2.jar!/com/kingdee/shr/sso/client/ltpa/LtpaToken.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../test/src/main/webapp/WEB-INF/shr-ssoClient.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
-          <artifact-editor />
-          <last-edited>test:war</last-edited>
+          <artifact-editor>
+            <show-content>
+              <type id="javaee-facet-resources" />
+              <type id="artifact" />
+              <type id="jpa-descriptors" />
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>lnapp</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
-                <option value="0.5" />
+                <option value="0.37241378" />
               </list>
             </option>
           </splitter-proportions>
@@ -841,7 +852,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.37241378" />
               </list>
             </option>
           </splitter-proportions>
@@ -853,7 +864,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.37241378" />
               </list>
             </option>
           </splitter-proportions>
@@ -861,11 +872,11 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.37241378" />
               </list>
             </option>
           </splitter-proportions>
@@ -873,12 +884,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>test</last-edited>
+          <last-edited>lnlandscape</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
-                <option value="0.6" />
+                <option value="0.37241378" />
               </list>
             </option>
           </splitter-proportions>
@@ -898,11 +908,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>commons-codec-1.10</last-edited>
+          <last-edited>Maven: com.beust:jcommander:1.48</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.37241378" />
               </list>
             </option>
           </splitter-proportions>
